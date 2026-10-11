@@ -108,14 +108,17 @@ $ cat vaibhavi.json
 
 ## 🔥 `~/featured-projects`
 
-<!-- Replace repo names with your real ones. Pin repos on your profile too! -->
-
 <div align="center">
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=Vaibhaviverse-cloud&repo=YOUR-REPO-1&theme=react&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c)](https://github.com/Vaibhaviverse-cloud/YOUR-REPO-1)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=Vaibhaviverse-cloud&repo=YOUR-REPO-2&theme=react&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c)](https://github.com/Vaibhaviverse-cloud/YOUR-REPO-2)
+[![Cyber Security Quiz](https://github-readme-stats.vercel.app/api/pin/?username=Vaibhaviverse-cloud&repo=Cyber_security_quiz&theme=react&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c)](https://github.com/Vaibhaviverse-cloud/Cyber_security_quiz)
+[![Crypto Trace VASP](https://github-readme-stats.vercel.app/api/pin/?username=Vaibhaviverse-cloud&repo=Crypto_Trace_VASP&theme=react&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c)](https://github.com/Vaibhaviverse-cloud/Crypto_Trace_VASP)
 
 </div>
+
+| Project | What it does |
+|---------|--------------|
+| 🛡️ [**Cyber Security Quiz**](https://github.com/Vaibhaviverse-cloud/Cyber_security_quiz) | A quiz app to test and sharpen cybersecurity knowledge. |
+| 🔍 [**Crypto Trace VASP**](https://github.com/Vaibhaviverse-cloud/Crypto_Trace_VASP) | A tool for tracing crypto activity across VASPs (Virtual Asset Service Providers). |
 
 ---
 
