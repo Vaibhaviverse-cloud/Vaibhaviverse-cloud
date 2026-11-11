@@ -112,6 +112,8 @@ $ cat vaibhavi.json
 
 [![Cyber Security Quiz](https://github-readme-stats.vercel.app/api/pin/?username=Vaibhaviverse-cloud&repo=Cyber_security_quiz&theme=react&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c)](https://github.com/Vaibhaviverse-cloud/Cyber_security_quiz)
 [![Crypto Trace VASP](https://github-readme-stats.vercel.app/api/pin/?username=Vaibhaviverse-cloud&repo=Crypto_Trace_VASP&theme=react&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c)](https://github.com/Vaibhaviverse-cloud/Crypto_Trace_VASP)
+[![Signal-Noise](https://github-readme-stats.vercel.app/api/pin/?username=Vaibhaviverse-cloud&repo=Crypto_Trace_VASP&theme=react&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c)](https://github.com/Vaibhaviverse-cloud/Signal-Noise.git)
+
 
 </div>
 
@@ -119,6 +121,7 @@ $ cat vaibhavi.json
 |---------|--------------|
 | 🛡️ [**Cyber Security Quiz**](https://github.com/Vaibhaviverse-cloud/Cyber_security_quiz) | A quiz app to test and sharpen cybersecurity knowledge. |
 | 🔍 [**Crypto Trace VASP**](https://github.com/Vaibhaviverse-cloud/Crypto_Trace_VASP) | A tool for tracing crypto activity across VASPs (Virtual Asset Service Providers). |
+| 🛡️ [**Signal-noise**](https://github.com/Vaibhaviverse-cloud/Signal-Noise.git) | Browser-based Steganography and Cryptography Analysis Workbench. |
 
 ---
 
@@ -126,9 +129,9 @@ $ cat vaibhavi.json
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN/)
-[![Email](https://img.shields.io/badge/Email-00ff9c?style=for-the-badge&logo=gmail&logoColor=black)](mailto:YOUR-EMAIL@example.com)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/YOUR-USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhavi-garg)
+[![Email](https://img.shields.io/badge/Email-00ff9c?style=for-the-badge&logo=gmail&logoColor=black)](mailto:vaibhavig2047@gmail.com)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/quantvai404)
 
 <br/>
 
