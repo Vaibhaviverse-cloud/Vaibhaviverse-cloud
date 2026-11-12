@@ -132,6 +132,7 @@ $ cat vaibhavi.json
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhavi-garg)
 [![Email](https://img.shields.io/badge/Email-00ff9c?style=for-the-badge&logo=gmail&logoColor=black)](mailto:vaibhavig2047@gmail.com)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/quantvai404)
+**[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/midcam5fDX)**
 
 <br/>
 
